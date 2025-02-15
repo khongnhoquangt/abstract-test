@@ -9,5 +9,5 @@ export default function Test() {
     const { address } = useAccount()
 
     console.log({status})
-    return <Link href='/test'>sadsa {address}</Link>
+    return <Link prefetch={false} href='/test'>sadsa {address}</Link>
 }
