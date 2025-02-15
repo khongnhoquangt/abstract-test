@@ -174,6 +174,7 @@ export default function Home() {
           rel="noopener noreferrer"
           className="flex flex-col items-center justify-center p-4 bg-white/5 border border-white/10 rounded-lg hover:bg-white/10 hover:border-white/20 transition-all h-full text-center backdrop-blur-sm"
         >
+          <></>
           <svg
             className="w-6 h-6 mb-2 opacity-70"
             viewBox="0 0 24 24"
